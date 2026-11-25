@@ -1,0 +1,156 @@
+{
+ "firma": "Agrargenossenschaft Tucheim",
+ "stelle": "Facharbeiter Pflanzenproduktion / Landmaschinenschlosser (m/w/d)",
+ "ort": "Tucheim",
+ "plz": "39307",
+ "branche": "landwirtschaft",
+ "stelle_id": 1496,
+ "farbe_primary": "#2E4624",
+ "farbe_secondary": "#587245",
+ "region_badge": "Tucheim & Umgebung",
+ "benefit_top": "Unbefristet & Hilfe bei der Wohnungssuche",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Betriebliche Altersvorsorge",
+  "Leistungsgerechte Vergütung",
+  "Hilfe bei der Wohnungssuche",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Flache Hierarchie und ein eingespieltes, junges Team",
+  "Freundliches Arbeitsklima",
+  "Mitarbeiter-Events und regelmäßige Firmenfeiern",
+  "Unfallversicherung"
+ ],
+ "aufgaben": [
+  "Du fährst unsere Landmaschinen – vom Häcksler bis zur Spritze",
+  "Du führst Pflanzenschutzmaßnahmen durch",
+  "Du arbeitest in der Pflanzenproduktion mit, Schwerpunkt Futterbau",
+  "Du übernimmst Reparatur- und Schlosserarbeiten an unseren Landmaschinen",
+  "Du hältst den Maschinenpark mit Wartung und Instandhaltung in Schuss"
+ ],
+ "anforderung": "Eine abgeschlossene Ausbildung als Landwirt und/oder Landmaschinenschlosser, Führerschein Klasse T und B sowie die Pflanzenschutzbefugnis. Du arbeitest selbstständig, bist in Arbeitsspitzen flexibel und hast Freude an der Kombination aus Feldarbeit und Technik.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Landwirtschaft (Landwirt)",
+   "icon": "🌾",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Landmaschinen / Landtechnik",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Metallbau / Schlosserei",
+   "icon": "🔩",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "fuehrerschein_optionen": [
+  {
+   "label": "Ja, Klasse B + T",
+   "icon": "🚜"
+  },
+  {
+   "label": "Nur Klasse B",
+   "icon": "🚗"
+  },
+  {
+   "label": "Nein",
+   "icon": "❌"
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "3.000",
+    "label": "Hektar"
+   },
+   {
+    "zahl": "1.100",
+    "label": "Milchkühe"
+   },
+   {
+    "zahl": "47",
+    "label": "Mitarbeiter"
+   }
+  ],
+  "text": "Die Agrargenossenschaft eG Tucheim wurde 1991 gegründet und vereint seitdem erfolgreich Milchviehhaltung und Pflanzenproduktion unter einem Dach. Mit knapp 50 Mitarbeiterinnen und Mitarbeitern bewirtschaftet sie rund 3.000 Hektar Acker- und Grünland und hält 1.100 Milchkühe mit Nachzucht sowie 800 Mutterkühe. Der Feldbau ist klar auf den Futterbau ausgerichtet – mit Fokus auf Nachhaltigkeit, regionale Verbundenheit und innovative Produktionsmethoden."
+ },
+ "kunde_tab": "74 Agrargenossenschaft Tucheim",
+ "quelle": "https://ag-tucheim.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Tucheim (39307)"
+ },
+ "hero_bild": "img/hero-haecksler.jpg",
+ "bilder": [
+  "img/f-haecksler-hawe.jpg",
+  "img/f-silagetransport.jpg",
+  "img/f-maehwerk.jpg",
+  "img/f-ballentransport.jpg",
+  "img/f-fuhrpark-feld.jpg",
+  "img/f-maehdrescher.jpg"
+ ],
+ "meta_geo": [
+  "Milchhof 1, 39307 Tucheim"
+ ]
+}
